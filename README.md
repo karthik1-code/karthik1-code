@@ -1,5 +1,5 @@
-# Undergrad dev, building my way through the AI era:
-Started with UI → API → DB and somehow evolved into UI → API → DB → Tools → MCP → RAG.<br>Love designing ideas and giving them life through code. Experimenting with AI and figuring out how all these pieces fit together.<br>DSA (Hard Stuff Obv), Backend Development, AI Agents, MCP, RAG, and LLM Applications — getting better at understanding them.<br>I learn by building, breaking, debugging, and rebuilding — with a contribution from vibe.<br><br>Design → Build → Integrate → Break → Fix → Repeat.<br><br>Fueled by chai, curiosity, and an unreasonable number of tabs.
+# 👋 Undergrad Dev, building my way through the AI era:
+Started with UI → API → DB and somehow evolved into UI → API → DB → Tools → MCP → RAG.<br>Experimenting with AI and figuring out how all these pieces fit together.<br>DSA (Hard Stuff Obv 👾), Backend Development, AI Agents, MCP, RAG, and LLM Applications — getting better at understanding them.<br>Design → Build → Integrate → Break → Fix → Repeat - with a contribution from **vibe**.<br>Fueled by chai, curiosity, and an unreasonable number of tabs.
 
 
 # Connects:
@@ -11,6 +11,5 @@ Started with UI → API → DB and somehow evolved into UI → API → DB → To
 ![](https://github-readme-stats.shion.dev/api?username=karthik1-code&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=karthik1-code&theme=apprentice&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=karthik1-code&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
