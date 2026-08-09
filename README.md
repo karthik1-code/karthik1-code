@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I’m Karthik — an undergraduate developer who started with **UI → API → DB** and somehow evolved into **UI → API → DB → Tools → MCP → RAG**.<br><br>Love designing ideas and giving them life through code. Experimenting with AI and figuring out how all these pieces fit together. **DSA (Hard Stuff, Obv), Backend Development, AI Agents, MCP, RAG, and LLM Applications — getting better at understanding them.**<br><br>I learn by building, breaking, debugging, and rebuilding — with a contribution from **vibe**.<br><br>**Design → Build → Integrate → Break → Fix → Repeat.**<br><br>Fueled by **chai, curiosity, and an unreasonable number of tabs.**<br>
+Hey, I’m Karthik — an undergraduate developer who started with **UI → API → DB** and somehow evolved into **UI → API → DB → Tools → MCP → RAG**.<br>Love designing ideas and giving them life through code. Experimenting with AI and figuring out how all these pieces fit together. DSA (Hard Stuff, Obv), Backend Development, AI Agents, MCP, RAG, and LLM Applications — getting better at understanding them.<br><br>I learn by building, breaking, debugging, and rebuilding — with a contribution from **vibe**.<br><br>**Design → Build → Integrate → Break → Fix → Repeat.**<br><br>Fueled by **chai, curiosity, and an unreasonable number of tabs.**<br>
 
 
 ## 🌐 Socials:
