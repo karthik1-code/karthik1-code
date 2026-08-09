@@ -2,7 +2,7 @@
 Started with UI → API → DB and somehow evolved into UI → API → DB → Tools → MCP → RAG.<br>Experimenting with AI and figuring out how all these pieces fit together.<br>DSA (fs), UI/UX, Backend stuff, AI Stacks — getting better at understanding them.<br><br>Design → Build → Integrate → Break → Fix → Repeat - with a contribution from **vibe**.<br><br>Fueled by chai, curiosity, and an unreasonable number of tabs.
 
 
-# Contact:
+# Contacts:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik_veenavanka) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karthikv944@gmail.com) 
 
 # ⚙️ Tech Stack:
