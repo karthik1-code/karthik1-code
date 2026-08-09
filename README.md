@@ -1,5 +1,5 @@
 # 👋 Undergrad Dev, building my way through the AI era:
-Started with UI → API → DB and somehow evolved into UI → API → DB → Tools → MCP → RAG.<br>Experimenting with AI and figuring out how all these pieces fit together.<br>DSA (fs), UI/UX, Backend stuff, AI Stacks — getting better at understanding them.<br>Design → Build → Integrate → Break → Fix → Repeat - with a contribution from **vibe**.<br>Fueled by chai, curiosity, and an unreasonable number of tabs.
+Started with UI → API → DB and somehow evolved into UI → API → DB → Tools → MCP → RAG.<br>Experimenting with AI and figuring out how all these pieces fit together.<br>DSA (fs), UI/UX, Backend stuff, AI Stacks — getting better at understanding them.<br><br>Design → Build → Integrate → Break → Fix → Repeat - with a contribution from **vibe**.<br><br>Fueled by chai, curiosity, and an unreasonable number of tabs.
 
 
 # Connects:
